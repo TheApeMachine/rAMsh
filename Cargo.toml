@@ -2,11 +2,3 @@
 name    = "rAMsh"
 version = "0.1.0"
 authors = ["Daniel Owen van Dommelen <theapemachine@gmail.com>"]
-
-[dependencies]
-termion    = "1.5.1"
-hyper      = "~0.7"
-
-[[bin]]
-name = "rAMsh"
-path = "src/main.rs"
